@@ -14,7 +14,13 @@ npx skills add 2369069850ydl-code/codex --skill motion-templates
 
 按提示选择 Claude Code、Codex 或其他支持 Skill 的工具。默认装到当前项目；需要全局可加 `-g`。安装后重新加载工具，让它发现 `motion-templates`。
 
-也可以下载本仓库 ZIP，把整个 `skills/motion-templates` 文件夹（连同 assets、references、scripts）放进工具的 Skills 目录。只复制 SKILL.md 会缺少工程。
+也可以下载本仓库 ZIP，把整个 `skills/motion-templates` 文件夹（连同 assets、references、scripts）放进工具的 Skills 目录。只复制 SKILL.md 会缺少工程。 Git 连接受限时，下载并解压仓库 ZIP，也可以运行：
+
+```bash
+npx skills add ./codex-main --skill motion-templates
+```
+
+该 ZIP 安装路径已完成“安装 → 创建新工程 → 渲染”的实测。
 
 ## 对 AI 这样说
 
