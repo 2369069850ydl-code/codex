@@ -1,0 +1,38 @@
+{
+  "name": "motion-templates",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Parameterized Remotion motion templates (self-implemented; no reference footage included)",
+  "scripts": {
+    "studio": "remotion studio",
+    "versions": "remotion versions",
+    "typecheck": "tsc -p .",
+    "bundle": "remotion bundle src/index.ts --out-dir build",
+    "render:a": "remotion render src/index.ts CardGridA out/CardGridA.mp4 --concurrency=1",
+    "render:b": "remotion render src/index.ts CardGridB out/CardGridB.mp4 --concurrency=1",
+    "render": "remotion render src/index.ts",
+    "catalog": "node scripts/catalog.mjs",
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "@fontsource/inter": "5.3.0",
+    "@fontsource/montserrat": "5.3.0",
+    "@fontsource/noto-sans-sc": "5.3.1",
+    "@react-three/fiber": "9.8.2",
+    "@remotion/cli": "4.0.537",
+    "@remotion/three": "4.0.537",
+    "@types/three": "0.186.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.537",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.20.0"
+  }
+}

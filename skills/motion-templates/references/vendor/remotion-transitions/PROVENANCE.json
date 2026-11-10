@@ -1,0 +1,33 @@
+{
+  "repo": "Ashad001/remotion-transitions",
+  "stars": 70,
+  "license": "MIT",
+  "commit": "2bf15881f1f9d74e4b76979cd0846aefffc9962c",
+  "license_file": "LICENSE",
+  "checked": "2026-11-10",
+  "readme_bytes": 2543,
+  "files": [
+    {
+      "upstream": "LICENSE",
+      "local": "LICENSE",
+      "sha256": "cf1f543aa457062ad9d3ea983ceb54965d605bd62ed64147d6eec6ae39596d15"
+    },
+    {
+      "upstream": "references/animation-math.md",
+      "local": "references/animation-math.md",
+      "sha256": "147ec5bca6f6c753165b9119dc83f1e91e773f5c5bee1d782f53a84c46a83df0"
+    },
+    {
+      "upstream": "references/custom-transition-pattern.md",
+      "local": "references/custom-transition-pattern.md",
+      "sha256": "eff5539d53630ea3aa3111ae68da8251004a682d380b9cd007bb44d5a9f3b1ea",
+      "upstream_sha256": "2778e32cbf4207be8d8ec56f1054087adfe1518ac034c8daad639eb7d96ecc5a"
+    },
+    {
+      "upstream": "references/transition-catalog.md",
+      "local": "references/transition-catalog.md",
+      "sha256": "ca3e1ce12acb7a57ca3a97ad254ade1ccae4aa5fd7e1f476a430d859bc68a7d9"
+    }
+  ],
+  "modifications": "SKILL.md renamed GUIDE.md to avoid accidental nested Skill discovery; file contents unchanged. Demo code archived separately; no audio, screenshots or rendered footage redistributed. Corrected SceneB closing JSX tag in references/custom-transition-pattern.md."
+}

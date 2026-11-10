@@ -1,0 +1,107 @@
+{
+  "repo": "iart-ai/explainer-video-skills",
+  "stars": 93,
+  "license": "MIT",
+  "commit": "3e2d411b725d9a72939cf8e5eb81579e751373e7",
+  "license_file": "LICENSE",
+  "checked": "2026-11-10",
+  "readme_bytes": 5039,
+  "files": [
+    {
+      "upstream": "LICENSE",
+      "local": "LICENSE",
+      "sha256": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668"
+    },
+    {
+      "upstream": "skills/diagram-animation/README.md",
+      "local": "skills/diagram-animation/README.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "upstream": "skills/diagram-animation/SKILL.md",
+      "local": "skills/diagram-animation/GUIDE.md",
+      "sha256": "eb4aebe125e1f70608cf365670a618907d5c8f1229e184cdd4e32fdc34a7a8fb"
+    },
+    {
+      "upstream": "skills/diagram-animation/references/diagram-and-chart-recipes.md",
+      "local": "skills/diagram-animation/references/diagram-and-chart-recipes.md",
+      "sha256": "b5789057a05c8e01914b34352973b9a72582d0cfc7c3d76a35e14600cb851fb8"
+    },
+    {
+      "upstream": "skills/explainer-video/README.md",
+      "local": "skills/explainer-video/README.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "upstream": "skills/explainer-video/SKILL.md",
+      "local": "skills/explainer-video/GUIDE.md",
+      "sha256": "d1c0e3147550c492790250f2d2d11b44b10ed3e46bd269a3bab03b0d25659f6a"
+    },
+    {
+      "upstream": "skills/explainer-video/references/script-to-screen-workflow.md",
+      "local": "skills/explainer-video/references/script-to-screen-workflow.md",
+      "sha256": "1aa910bd3c5775bddea56af5bc5530c8a2db1cd923a228d6c9d0af90f8bd553a"
+    },
+    {
+      "upstream": "skills/isometric-animation/README.md",
+      "local": "skills/isometric-animation/README.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "upstream": "skills/isometric-animation/SKILL.md",
+      "local": "skills/isometric-animation/GUIDE.md",
+      "sha256": "7ef259e68a5167463ec991417ad6ce86d5aa056a9cd32bfc3ded6c484afdbf77"
+    },
+    {
+      "upstream": "skills/isometric-animation/references/isometric-recipes.md",
+      "local": "skills/isometric-animation/references/isometric-recipes.md",
+      "sha256": "80b11d6e219e35f319e687f2df28e1510f2b397ac0139a45fddbed2601c22d15"
+    },
+    {
+      "upstream": "skills/whiteboard-animation/README.md",
+      "local": "skills/whiteboard-animation/README.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "upstream": "skills/whiteboard-animation/SKILL.md",
+      "local": "skills/whiteboard-animation/GUIDE.md",
+      "sha256": "42e9519e7eea3f3170e39edad9fe721a5c95bfe763e725713c6be2b0050fb2c8"
+    },
+    {
+      "upstream": "skills/whiteboard-animation/references/draw-on-recipes.md",
+      "local": "skills/whiteboard-animation/references/draw-on-recipes.md",
+      "sha256": "8e4de55e19540749259cc5303d0e6a61e76e01c9ea79366009146eddb4c7c244"
+    },
+    {
+      "upstream": "skills/whiteboard-animation/references/whiteboard-pipeline.md",
+      "local": "skills/whiteboard-animation/references/whiteboard-pipeline.md",
+      "sha256": "97ae07797bf3b9248f3c3eb1cc23849a7dfa9b5472adee5d2b21d47c237a94a9"
+    },
+    {
+      "upstream": "skills/wrapped-video/README.md",
+      "local": "skills/wrapped-video/README.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "upstream": "skills/wrapped-video/SKILL.md",
+      "local": "skills/wrapped-video/GUIDE.md",
+      "sha256": "9c5b208604746629e1344f84b6199dd9a6d173ecfdae63225c55701ee92c2742"
+    },
+    {
+      "upstream": "skills/wrapped-video/references/batch-pipeline.md",
+      "local": "skills/wrapped-video/references/batch-pipeline.md",
+      "sha256": "9ade77f32679b8536c87690f0839938c2b1fae521260296480e89dfba555af32"
+    },
+    {
+      "upstream": "skills/wrapped-video/references/remotion-recipes.md",
+      "local": "skills/wrapped-video/references/remotion-recipes.md",
+      "sha256": "50b7b21d7633bfd4b94421499356b4a83b3cf638fe42473fce2c71a9517b4166"
+    },
+    {
+      "upstream": "skills/wrapped-video/references/scene-grammar.md",
+      "local": "skills/wrapped-video/references/scene-grammar.md",
+      "sha256": "03b51549b5f77e2d39b35bc1d024e2fba7aa4b83108dc6b99604dda8958620ee"
+    }
+  ],
+  "modifications": "SKILL.md renamed GUIDE.md to avoid accidental nested Skill discovery; file contents unchanged. Demo code archived separately; no audio, screenshots or rendered footage redistributed."
+}

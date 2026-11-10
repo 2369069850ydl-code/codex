@@ -1,0 +1,67 @@
+{
+  "repo": "iart-ai/webgl-animation-skills",
+  "stars": 53,
+  "license": "MIT",
+  "commit": "50697d659fbf70152f48f9f8aadf1efe78bbdde1",
+  "license_file": "LICENSE",
+  "checked": "2026-11-10",
+  "readme_bytes": 4730,
+  "files": [
+    {
+      "upstream": "LICENSE",
+      "local": "LICENSE",
+      "sha256": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668"
+    },
+    {
+      "upstream": "skills/particle-system/README.md",
+      "local": "skills/particle-system/README.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "upstream": "skills/particle-system/SKILL.md",
+      "local": "skills/particle-system/GUIDE.md",
+      "sha256": "0cb2c5559bef8bbad82406b4e764a470d011a910e8bc2ca1757425765906ecd2"
+    },
+    {
+      "upstream": "skills/particle-system/references/particle-recipes.md",
+      "local": "skills/particle-system/references/particle-recipes.md",
+      "sha256": "65a10663aebf41899252dbd0274c7bdab671d67c31a7d4c9ce81464952a8a27d"
+    },
+    {
+      "upstream": "skills/shader-glsl/README.md",
+      "local": "skills/shader-glsl/README.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "upstream": "skills/shader-glsl/SKILL.md",
+      "local": "skills/shader-glsl/GUIDE.md",
+      "sha256": "5fbaf3066c303c2addd0c309718d4fb67c22e424091bb174bc44c5a6a86ee564"
+    },
+    {
+      "upstream": "skills/shader-glsl/references/glsl-cookbook.md",
+      "local": "skills/shader-glsl/references/glsl-cookbook.md",
+      "sha256": "5d9a14540fdc19205d50d25ab564fc7a38c977d49f5db39e732ef7c8f28ef422"
+    },
+    {
+      "upstream": "skills/threejs-animation/README.md",
+      "local": "skills/threejs-animation/README.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "upstream": "skills/threejs-animation/SKILL.md",
+      "local": "skills/threejs-animation/GUIDE.md",
+      "sha256": "5d9e36ae05b4d9fee1d665d147c37b5e726252c7935c74f692e513ed36e11a45"
+    },
+    {
+      "upstream": "skills/threejs-animation/references/r3f-and-perf.md",
+      "local": "skills/threejs-animation/references/r3f-and-perf.md",
+      "sha256": "5791e6216d97a96cf02980cda2eed6b41a5230fc06d679e1f9736730fb47ee4a"
+    },
+    {
+      "upstream": "skills/threejs-animation/references/resource-disposal.md",
+      "local": "skills/threejs-animation/references/resource-disposal.md",
+      "sha256": "72487a8c64b0621fd9614ea2e9bb89c3db7d6219a5ca21a08766481ca6c353c5"
+    }
+  ],
+  "modifications": "SKILL.md renamed GUIDE.md to avoid accidental nested Skill discovery; file contents unchanged. Demo code archived separately; no audio, screenshots or rendered footage redistributed."
+}

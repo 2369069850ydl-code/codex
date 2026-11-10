@@ -1,0 +1,10 @@
+node_modules/
+build/
+out/
+logs/
+.tmp/
+*.mp4
+.env
+
+# 480p previews are part of the repo
+!previews/*.mp4
